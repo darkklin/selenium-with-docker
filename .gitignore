@@ -1,0 +1,7 @@
+.idea
+target
+selenium-docker.iml
+video
+build
+allure-results
+test-output
