@@ -11,5 +11,5 @@ Test project based on selenium + Docker
 * Zalenium - Selenium Grid with Video recording and many other cool features
 * Jenkins from Installation till running our tests in AWS cloud
 * Building a CI + CD pipeline from scratch using Jenkins, GitHub, DockerHub, AWS
-* Integrating our test automation process with GitHub and DockerHub
+* Integrating my test automation process with GitHub and DockerHub
 * Creating Selenium Grid using Docker
