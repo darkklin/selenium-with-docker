@@ -1,5 +1,5 @@
 ## selenium-with-docker 
-Dummy project based on selenium
+Test project based on selenium + Docker
 
 ## What I Learned 
 * Make my self comfortablew wiht Docker with Selenium WebDriver, Docker-compose, Jenkins, Running Tests in AWS cloud
