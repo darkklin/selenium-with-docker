@@ -2,7 +2,7 @@
 Test project based on selenium + Docker
 
 ## What I Learned 
-* Make my self comfortablew wiht Docker with Selenium WebDriver, Docker-compose, Jenkins, Running Tests in AWS cloud
+* Docker with Selenium WebDriver, Docker-compose, Jenkins, Running Tests in AWS cloud
 * Data Driven - Test Automation Framework from scratch Using Java + TestNG
 * Creating my own custom docker images
 * Running test inside a docker container
